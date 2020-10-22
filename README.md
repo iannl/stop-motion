@@ -1,2 +1,3 @@
 # stop-motion
-My stop-motion animations
+I have made some stop-motion animations, and put them in a website!
+
